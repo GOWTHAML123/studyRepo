@@ -4,9 +4,9 @@ function login(){
     return(
             <form class="d-flex vw-100 vh-100 align-items-center justify-content-center">
         
-        <div class="form-outline mb-4"><br>
+        <div class="form-outline mb-4">
           <input type="email" id="form2Example1" class="form-control" />
-          <label class="form-label" for="form2Example1">Email address</label></br>
+         <label class="form-label" for="form2Example1">Email address</label>
         </div>
       
         
